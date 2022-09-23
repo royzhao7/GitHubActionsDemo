@@ -1,0 +1,47 @@
+[33mcommit 1936510550c6af71fb765f214a64079a606f16ec[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: royzhao <zhaoshuai1106@gmail.com>
+Date:   Fri Sep 23 15:48:07 2022 +0800
+
+    add set up step
+
+[33mcommit 7e9854b846bd7fb1a746de402032e5860f2da6ce[m
+Author: royzhao <zhaoshuai1106@gmail.com>
+Date:   Fri Sep 23 14:46:14 2022 +0800
+
+    change branch name
+
+[33mcommit 885662e4c8b58e2c5e712d1a3903ae00e6de5ac5[m
+Author: royzhao <zhaoshuai1106@gmail.com>
+Date:   Fri Sep 23 14:42:13 2022 +0800
+
+    format yml
+
+[33mcommit 8609bc17c0ea9a8f13234853c87adc2d2030d44f[m
+Author: royzhao <zhaoshuai1106@gmail.com>
+Date:   Fri Sep 23 14:40:25 2022 +0800
+
+    remove duplicate step in main.yml
+
+[33mcommit a6107ed448e25a7943fa27f058ad2ffc2d1f5bed[m
+Author: royzhao <zhaoshuai1106@gmail.com>
+Date:   Fri Sep 23 14:32:34 2022 +0800
+
+    test ci
+
+[33mcommit 7908772dd87fbc3fd2c21878659ca346a4ebc859[m
+Author: royzhao7 <35291563+royzhao7@users.noreply.github.com>
+Date:   Fri Sep 23 14:05:35 2022 +0800
+
+    Create main.yml
+
+[33mcommit 7b0bcead8ac80766836df3e6e7b1900b28da5c7f[m
+Author: royzhao <zhaoshuai1106@gmail.com>
+Date:   Fri Sep 23 13:56:18 2022 +0800
+
+    first commit
+
+[33mcommit d9b8d96f655772bc8d90fa09c8f1d8e80d98a7d1[m
+Author: Zhao <uif46353@contiwan.com>
+Date:   Fri Sep 23 13:53:30 2022 +0800
+
+    first commit
